@@ -4,7 +4,7 @@
   <img src="https://github.com/CodeWithTanim/Cryptography-Algorithms-Implementation/blob/main/docs/screenshots/Cryptography-Algorithms-Implementation.jpeg" alt="Crypto Project Banner" style="max-width: 100%; height: auto; width: 400px;">
 </p>
 
-<h1 align="center">🔑 Cryptography Algorithms Implementation 🚀</h1>
+<h1 align="center">🔑 Cryptography Algorithms Implementation 🚀</h1> 
 <p align="center">
   <b>Internship Project for <a href="http://codectechnologies.in/">Codec Technologies</a></b><br>
   <b>Learn, implement, and test core cryptography algorithms in Python!</b> ⚡<br>
