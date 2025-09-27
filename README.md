@@ -105,7 +105,7 @@ Cryptography-Algorithms-Implementation/
 > [paramesh n t](https://github.com/ANIL-1254-BASH)
 
 > Intern at [Codec Technologies](http://codectechnologies.in/)  
-> 🔗 [GitHub](https://github.com/ANIL-1254-BASH) | [LinkedIn](https://www.linkedin.com/paramesh-n-t/)  
+> 🔗 [GitHub](https://github.com/ANIL-1254-BASH) | [LinkedIn](www.linkedin.com/in/paramesh-n-t-608606281)  
 
 ---
 
