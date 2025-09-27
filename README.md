@@ -1,4 +1,4 @@
-# Cryptography Algorithms Implementation 🔐
+# Cryptography Algorithms Implementation secure code  🔐
 
 <p align="center">
   <img src="https://github.com/CodeWithTanim/Cryptography-Algorithms-Implementation/blob/main/docs/screenshots/Cryptography-Algorithms-Implementation.jpeg" alt="Crypto Project Banner" style="max-width: 100%; height: auto; width: 400px;">
@@ -102,9 +102,10 @@ Cryptography-Algorithms-Implementation/
 
 ### ✍️ Developer
 
-> [MD SAMIUR RAHMAN TANIM](https://github.com/CodeWithTanim)
+> [paramesh n t](https://github.com/ANIL-1254-BASH)
+
 > Intern at [Codec Technologies](http://codectechnologies.in/)  
-> 🔗 [GitHub](https://github.com/CodeWithTanim) | [LinkedIn](https://www.linkedin.com/in/codewithtanim/)  
+> 🔗 [GitHub](https://github.com/ANIL-1254-BASH) | [LinkedIn](https://www.linkedin.com/paramesh-n-t/)  
 
 ---
 
@@ -123,10 +124,4 @@ If you find bugs, improvements, or want to add more algorithms (like DES, Blowfi
 
 ---
 
-### 📡 Connect With Me:
 
-<p align="left">
-  <a href="https://fb.com/CodeWithTanim" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/CodeWithTanim" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@CodeWithTanim" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-</p>
