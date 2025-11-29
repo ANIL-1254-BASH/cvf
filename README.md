@@ -51,7 +51,7 @@ It demonstrates encryption, decryption, and hashing with a simple Python structu
 #### 🛠️ Setup:
 ```bash
 # Clone and setup
-git clone https://github.com/CodeWithTanim/Cryptography-Algorithms-Implementation.git
+git clone https://github.com/ANIL-1254-BASH/Cryptography-Algorithms-Implementation.git
 cd Cryptography-Algorithms-Implementation
 
 # Install dependencies
